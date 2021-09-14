@@ -1,0 +1,10 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Cookies\\OneDrive\\Desktop\\java stuff\\junit-platform-console-standalone-1.7.0-M1.jar"
+    ],
+    "java.project.sourcePaths": [
+        "src\\main\\java",
+        "src\\test\\java"
+    ]
+}
